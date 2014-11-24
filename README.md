@@ -1,0 +1,4 @@
+ShinaCQRS
+=========
+
+CQRS
